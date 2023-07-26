@@ -23,4 +23,4 @@
 ------------
 
 <p align="center">🔄 Profile README last updated: <b>Tuesday, 27 July, 02:02 GMT-6</b></p>
-<p align="center"><img alt="Forks" src="https://img.shields.io/github/forks/AmauryAparicio/AmauryAparicio?style=flat-square&labelColor=343b41"/></p>
+<p align="center"> <img alt="Stars" src="https://img.shields.io/github/stars/AmauryAparicio/AmauryAparicio?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/AmauryAparicio/AmauryAparicio?style=flat-square&labelColor=343b41"/></p>
