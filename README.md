@@ -15,9 +15,6 @@
   <!-- Add other technologies as needed -->
 </p>
 
-<h3>📈 Some of My Work</h3>
-<!-- You can list some of your notable repositories or projects here -->
-
 <h3>🌐 Let's Connect!</h3>
 <p>
   <a href="https://github.com/AmauryAparicio" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
