@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! I'm Amaury Aparicio.</h1>
 
-<p>Welcome to my GitHub! 👋</br> I'm a **Senior Web Developer & Tech Lead**, passionate about JavaScript, Web Development, and Innovation. Originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197397.png" width="13"/> <b>Mexico</b>, I've collaborated with teams around the world.</p>
+<p>Welcome to my GitHub! 👋</br> I'm a <b>Senior Web Developer & Tech Lead</b>, passionate about JavaScript, Web Development, and Innovation. Originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197397.png" width="13"/> <b>Mexico</b>, I've collaborated with teams around the world.</p>
 
 <h3>🔧 Technologies & Tools</h3>
 <p>
