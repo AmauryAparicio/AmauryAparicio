@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! I'm Amaury Aparicio.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span>Hello there! I'm</span> <a href="https://www.amauryaparicio.dev/">Amaury Aparicio</a>.</h1>
 
 <p>Welcome to my GitHub! 👋</br> I'm a <b>Senior Web Developer & Tech Lead</b>, passionate about JavaScript, Web Development, and Innovation. Originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197397.png" width="13"/> <b>Mexico</b>, I've collaborated with teams around the world.</p>
 
